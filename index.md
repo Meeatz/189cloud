@@ -1,7 +1,4 @@
-- 签到时间 2025-04-19 17:13:03 [![签到状态](https://github.com/zdu2022/189cloud/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/zdu2022/189cloud/actions/workflows/main.yml)
+- 签到时间 2025-04-19 22:12:09 [![签到状态](https://github.com/zdu2022/189cloud/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/zdu2022/189cloud/actions/workflows/main.yml)
 - 开始执行帐号1
 - 登录成功
 - 已经签到过了，签到获得48M空间
-- 第1抽奖成功：获得天翼云盘50M空间
-- 第2抽奖失败，可能是次数不足了
-- 第3抽奖失败，可能是次数不足了
