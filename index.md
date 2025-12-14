@@ -1,2 +1,3 @@
-- 签到时间 2025-12-14 17:15:04 [![签到状态](https://github.com/zdu2022/189cloud/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/zdu2022/189cloud/actions/workflows/main.yml)
+- 签到时间 2025-12-14 22:13:53 [![签到状态](https://github.com/zdu2022/189cloud/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/zdu2022/189cloud/actions/workflows/main.yml)
 - 开始执行帐号1
+- 账户名或密码错误
