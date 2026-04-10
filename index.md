@@ -1,3 +1,3 @@
-- 签到时间 2026-04-09 23:17:01 [![签到状态](https://github.com/zdu2022/189cloud/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/zdu2022/189cloud/actions/workflows/main.yml)
+- 签到时间 2026-04-10 18:04:40 [![签到状态](https://github.com/zdu2022/189cloud/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/zdu2022/189cloud/actions/workflows/main.yml)
 - 开始执行帐号1
-- 图形验证码错误，请重新输入
+- 账户名或密码错误
